@@ -1,0 +1,50 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-145,800,1096,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=day1_w2_ckt3.dat>
+  <DataDisplay=day1_w2_ckt3.sch>
+  <OpenDisplay=1>
+  <Script=day1_w2_ckt3.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 120 320 356 273 3 #c0c0c0 1 10 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"dBGain" #0000ff 0 3 0 0 0>
+	  <Mkr 31.1315 80 -297 3 0 0>
+	  <Mkr 1.92575e+08 348 -273 3 0 0>
+	  <Mkr 1.11892e+08 339 -286 3 0 0>
+	  <Mkr 6.87543e+07 330 -292 3 0 0>
+	  <Mkr 3.85656e+07 321 -295 3 0 0>
+	  <Mkr 1.7398e+08 346 -276 3 0 0>
+	  <Mkr 1.55561e+08 344 -279 3 0 0>
+	  <Mkr 1.43483e+08 343 -281 3 0 0>
+	  <Mkr 9.83558e+09 416 -82 3 0 0>
+  </Rect>
+  <Rect 110 721 405 321 3 #c0c0c0 1 10 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"phase" #0000ff 0 3 0 0 0>
+	  <Mkr 1.89845e+07 343 -335 3 0 0>
+	  <Mkr 6.2748e+08 411 -131 3 0 0>
+	  <Mkr 2.97509e+09 441 -98 3 0 0>
+	  <Mkr 4.47713e+07 359 -308 3 0 0>
+	  <Mkr 1.68306e+08 385 -217 3 0 0>
+	  <Mkr 1.51112e+08 383 -226 3 0 0>
+	  <Mkr 1.60472e+08 384 -221 3 0 0>
+	  <Mkr 8.31955e+07 371 -273 3 0 0>
+	  <Mkr 7.50067e+07 369 -280 3 0 0>
+	  <Mkr 7.8343e+07 370 -277 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

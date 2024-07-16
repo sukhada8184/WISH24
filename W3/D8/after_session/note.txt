@@ -1,0 +1,8 @@
+Hello!
+Because of lack of time, we couldn't discuss the circuits given yesterday which had to be tried
+for today's session.
+We will discuss the two of them tomorrow:)
+
+Meanwhile, you can also simulate one inductor circuit attached in this folder.
+
+Thank you:)

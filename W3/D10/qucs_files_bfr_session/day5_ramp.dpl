@@ -1,0 +1,30 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,900,819,1,0,10>
+  <Grid=10,10,0>
+  <DataSet=day5_ramp.dat>
+  <DataDisplay=day5_RC_ramp_ckt.sch>
+  <OpenDisplay=1>
+  <Script=day5_ramp.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 147 530 629 420 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"vramp_input.Vt" #0000ff 0 3 0 0 0>
+	<"vout1.Vt" #ff0000 0 3 0 0 0>
+	<"steady_state" #ff00ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
