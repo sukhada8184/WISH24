@@ -1,0 +1,35 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,967,1025,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=day5_ckt3.dat>
+  <DataDisplay=day5_ckt3.sch>
+  <OpenDisplay=1>
+  <Script=day5_ckt3.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 206 560 714 412 3 #c0c0c0 1 10 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"ac_gain" #0000ff 0 3 0 0 0>
+	  <Mkr 227.091 247 -425 3 0 0>
+	  <Mkr 188.843 241 -428 3 0 0>
+	  <Mkr 167.456 236 -429 3 0 0>
+	  <Mkr 140.994 231 -431 3 0 0>
+	  <Mkr 167.803 237 -429 3 0 0>
+	  <Mkr 167.803 237 -429 3 0 0>
+	  <Mkr 158.343 235 -430 3 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

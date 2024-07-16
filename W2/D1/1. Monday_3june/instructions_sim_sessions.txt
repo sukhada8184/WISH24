@@ -1,0 +1,10 @@
+Hello!
+This folder contains:
+1) QUCS guide ppt, as explained in session on 3/06/24 to understand the simulator tool.
+2) Question 1 and Question 2 : We expect you guys to try out the two questions attached in the
+folder before tomorrow's simulator session. Place the components on the schematic, make the connections 
+appropriately, add the desired simulation block. Check the simulation results.
+The simulation and interpretation of results will be done during tomorrow's simulator session. 
+So keep the circuits ready!
+
+Happy Learning:)
